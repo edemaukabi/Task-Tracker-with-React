@@ -15,6 +15,9 @@ Installation:
 
 npm install
 
+To Start json-server:
+Use npx to run json-server locally by running "npx json-server --watch db.json --port 5000"
+
 To Start Server:
 
 npm start
