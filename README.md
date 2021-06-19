@@ -2,8 +2,7 @@ Task Tracker
 
 An application used to track your tasks built with React and CSS.
 
-Project Status
-This project is currently in development. Users can add tasks, delete tasks, toggle reminder and check information about the app. Functionality to edit/update tasks, add alarm to reminder will be added.
+Users can add tasks, delete tasks, toggle reminder and check information about the app. Functionality to edit/update tasks, add alarm to reminder will be added.
 
 Project Screen Shot(s)
 ![A Task Tracker App](assets/task_tracker.jpg)
